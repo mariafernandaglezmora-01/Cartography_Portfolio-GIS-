@@ -11,7 +11,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ## Proyectos destacados
 
 ### 01) PUMOT – Proyecto de Programa de Ordenamiento Territorial de la Zona Metropolitana de Mérida (2025)
-**Institución / Cliente:** SEDATU (a través de CIAT)  
+**Institución / Cliente:** SEDATU (a través de Consultoría privada)  
 **Rol:** Coordinadora de Sistemas de Información Geográfica (SIG)  
 **Descripción:** Coordinación SIG para la producción cartográfica oficial del programa y su publicación en SITU: estandarización de capas, validación topológica, control de calidad, metadatos y diccionarios de datos, estructuración de geodatabase y entrega de insumos geoespaciales listos para integración institucional.
 
@@ -22,7 +22,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ---
 
 ### 02) PIMUS – Carmen, Campeche (2025)
-**Institución / Cliente:** SEDUMOP / Gobierno del Estado de Campeche (a través de EME Espacio Multiescalar)  
+**Institución / Cliente:** SEDUMOP / Gobierno del Estado de Campeche (a través de Consultoría privada)  
 **Rol:** Coordinadora del área SIG  
 **Descripción:** Coordinación SIG para cartografía base y temática del PIMUS: actualización cartográfica del área de estudio, integración de insumos multifuente, generación de shapefiles/Geodatabase con topología, modelo entidad–relación, metadatos y productos para análisis territorial, infraestructura existente y propuestas.
 
@@ -33,7 +33,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ---
 
 ### 03) PIMUS – Escárcega, Campeche (2025) 
-**Institución / Cliente:** SEDUMOP / Gobierno del Estado de Campeche (a través de EME Espacio Multiescalar)   
+**Institución / Cliente:** SEDUMOP / Gobierno del Estado de Campeche (a través de Consultoría privada)   
 **Rol:** Coordinadora del área SIG  
 **Descripción:** Coordinación SIG para cartografía base y temática del PIMUS: actualización cartográfica del área de estudio, integración de insumos multifuente, generación de shapefiles/Geodatabase con topología, modelo entidad–relación, metadatos y productos para análisis territorial, infraestructura existente y propuestas.
 
@@ -44,7 +44,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ---
 
 ### 04) Programa Metropolitano – Coatzacoalcos, Veracruz (2022) 
-**Institución / Cliente:** SEDATU (a través de Consultoría en Planeación, Desarrollo y Territorio, S.C.)
+**Institución / Cliente:** SEDATU (a través de Consultoría privada)
 **Rol:** Encargada del área SIG  
 **Descripción:** Producción y control de calidad de cartografía del programa: armado de capas temáticas, consistencia geométrica y validación topológica, documentación técnica (metadatos) y paquetes SIG listos para consulta, análisis y soporte de decisiones en el instrumento.
 
@@ -55,7 +55,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ---
 
 ### 05) Actualización PMDU – Hecelchakán, Campeche (2024)
-**Institución / Cliente:** SEDATU (a través de CDUA Consultoría en Desarrollo Urbano y Ambiental, S.C.)
+**Institución / Cliente:** SEDATU (a través de Consultoría privada)
 **Rol:** Cartografía temática  
 **Descripción:** Elaboración de cartografía temática para actualización de PMDU: normalización de insumos, construcción de capas para diagnóstico y estrategia urbana, estandarización de simbología y salidas de impresión, y organización de datasets para uso operativo en SIG.
 
@@ -66,7 +66,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ---
 
 ### 06) Actualización PMDU – Tenabo, Campeche (2024)
-**Institución / Cliente:** SEDATU  (a través de CDUA Consultoría en Desarrollo Urbano y Ambiental, S.C.)
+**Institución / Cliente:** SEDATU  (a través de Consultoría privada)
 **Rol:** Cartografía temática  
 **Descripción:** Elaboración de cartografía temática para actualización de PMDU: normalización de insumos, construcción de capas para diagnóstico y estrategia urbana, estandarización de simbología y salidas de impresión, y organización de datasets para uso operativo en SIG.
 
@@ -77,7 +77,7 @@ Portafolio de cartografía y productos SIG desarrollados para instrumentos de pl
 ---
 
 ### 07) Plan Parcial – Área de influencia Tren Maya, Palenque (FONATUR, 2021)
-**Institución / Cliente:** FONATUR (a través de CDUA Consultoría en Desarrollo Urbano y Ambiental, S.C.)
+**Institución / Cliente:** FONATUR (a través de Consultoría privada)
 **Rol:** Cartografía temática + apoyo al diagnóstico territorial  
 **Descripción:** Cartografía temática y diagnóstico territorial del área de influencia: integración y depuración de información geoespacial, construcción de capas analíticas y entrega integrada al Sistema de Información Geográfica de FONATUR, asegurando compatibilidad, documentación y consistencia espacial.
 
